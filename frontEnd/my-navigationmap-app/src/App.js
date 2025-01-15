@@ -3,11 +3,12 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
+    <div className="NavMap">
+      <h1>Hi!, Welcome</h1>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          we are nav <code></code> and we locate you smoothly.
         </p>
         <a
           className="App-link"
@@ -15,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Thanks for visiting us
         </a>
       </header>
     </div>
